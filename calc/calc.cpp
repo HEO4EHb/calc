@@ -1,6 +1,8 @@
-#include <iostream>
+﻿#include <iostream>
 #include <string>
-
+//Записывать в виде
+//2+2*3=
+//в конце выражения ставим равно 
 std::string math(std::string d)
 {
     int a, b, c, y, iii, jjj;
@@ -232,7 +234,7 @@ int check (std::string d)
     return (a);
 }
 
-
+                
 
 
 int main()
